@@ -1,0 +1,12 @@
+.container {
+  border: 2px solid orange;
+  max-width: 700px;
+  width: 50%;
+  margin: auto;
+  margin-top: 5rem;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
